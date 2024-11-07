@@ -10,15 +10,12 @@ You can also include images in this folder and reference them in the markdown. E
 Testing the code ehre
 ## How it works
 
-Explain how your project works
-Just adding new stuff here \n
-i dont know
+Testing the documentation. 
 
 ## How to test
 
-Explain how to use your project
-New entires
+I am trying to explain the objects here.
+
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
-Deleting testing
+Mention the external use of hardware.
